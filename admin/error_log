@@ -1,0 +1,207 @@
+[10-Nov-2022 17:29:16 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mikserve/public_html/referensi/admin.php on line 8
+[10-Nov-2022 17:29:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mikserve/public_html/referensi/admin.php:1) in /home/mikserve/public_html/referensi/admin.php on line 12
+[10-Nov-2022 17:30:18 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mikserve/public_html/referensi/farmasi.php on line 8
+[10-Nov-2022 17:30:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mikserve/public_html/referensi/farmasi.php:1) in /home/mikserve/public_html/referensi/farmasi.php on line 12
+[11-Nov-2022 06:21:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/mikserve/public_html/referensi/admin.php on line 8
+[11-Nov-2022 06:21:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/mikserve/public_html/referensi/admin.php:1) in /home/mikserve/public_html/referensi/admin.php on line 12
+[12-Nov-2022 00:32:57 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/kamunaen/public_html/auth/dokter.php on line 8
+[12-Nov-2022 00:32:57 UTC] PHP Warning:  Undefined variable $_SESSION in /home/kamunaen/public_html/auth/dokter.php on line 11
+[12-Nov-2022 00:32:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kamunaen/public_html/auth/dokter.php on line 11
+[12-Nov-2022 00:32:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kamunaen/public_html/auth/dokter.php:1) in /home/kamunaen/public_html/auth/dokter.php on line 12
+[12-Nov-2022 00:32:57 UTC] PHP Warning:  Undefined variable $_SESSION in /home/kamunaen/public_html/auth/dokter.php on line 18
+[12-Nov-2022 00:32:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kamunaen/public_html/auth/dokter.php on line 18
+[12-Nov-2022 01:42:50 UTC] PHP Warning:  Undefined variable $_SESSION in /home/kamunaen/public_html/auth/home.php on line 132
+[12-Nov-2022 01:42:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kamunaen/public_html/auth/home.php on line 132
+[12-Nov-2022 01:43:20 UTC] PHP Warning:  Array to string conversion in /home/kamunaen/public_html/auth/home.php on line 132
+[12-Nov-2022 01:49:02 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 132
+[12-Nov-2022 01:49:44 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 132
+[12-Nov-2022 01:49:48 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 132
+[12-Nov-2022 01:50:28 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 132
+[12-Nov-2022 01:51:44 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 132
+[12-Nov-2022 01:53:58 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 132
+[12-Nov-2022 01:58:54 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[12-Nov-2022 02:03:52 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[12-Nov-2022 02:04:08 UTC] PHP Warning:  Undefined array key "user_level_id" in /home/kamunaen/public_html/auth/home.php on line 5
+[12-Nov-2022 02:04:08 UTC] PHP Warning:  Undefined array key "username" in /home/kamunaen/public_html/auth/home.php on line 6
+[12-Nov-2022 02:04:17 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[12-Nov-2022 02:13:05 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[12-Nov-2022 02:13:41 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[12-Nov-2022 02:13:42 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[12-Nov-2022 02:13:46 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[12-Nov-2022 02:14:08 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[12-Nov-2022 02:14:13 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[12-Nov-2022 02:14:14 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[12-Nov-2022 02:15:38 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[12-Nov-2022 02:23:56 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[12-Nov-2022 02:24:18 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[12-Nov-2022 02:25:14 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[12-Nov-2022 04:01:23 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[12-Nov-2022 05:02:50 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/kamunaen/public_html/auth/admin.php on line 8
+[12-Nov-2022 05:02:50 UTC] PHP Warning:  Undefined variable $_SESSION in /home/kamunaen/public_html/auth/admin.php on line 11
+[12-Nov-2022 05:02:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kamunaen/public_html/auth/admin.php on line 11
+[12-Nov-2022 05:02:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kamunaen/public_html/auth/admin.php:1) in /home/kamunaen/public_html/auth/admin.php on line 12
+[12-Nov-2022 05:02:50 UTC] PHP Warning:  Undefined variable $_SESSION in /home/kamunaen/public_html/auth/admin.php on line 18
+[12-Nov-2022 05:02:50 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kamunaen/public_html/auth/admin.php on line 18
+[12-Nov-2022 12:57:28 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[12-Nov-2022 13:33:10 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[12-Nov-2022 14:08:04 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[12-Nov-2022 14:18:23 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[12-Nov-2022 14:18:29 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[12-Nov-2022 14:18:31 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[12-Nov-2022 14:23:40 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[12-Nov-2022 14:24:06 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[12-Nov-2022 14:24:11 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[12-Nov-2022 14:24:20 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[12-Nov-2022 14:24:25 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[12-Nov-2022 17:32:05 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[13-Nov-2022 04:44:57 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[13-Nov-2022 04:45:13 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[13-Nov-2022 04:45:20 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[13-Nov-2022 04:45:25 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[13-Nov-2022 06:49:37 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[13-Nov-2022 12:58:00 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[13-Nov-2022 13:33:36 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[13-Nov-2022 13:42:19 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[13-Nov-2022 13:43:26 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[13-Nov-2022 13:49:02 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[13-Nov-2022 13:50:28 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[13-Nov-2022 14:06:32 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[13-Nov-2022 14:07:04 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[13-Nov-2022 14:07:06 UTC] PHP Warning:  Undefined variable $username in /home/kamunaen/public_html/auth/home.php on line 143
+[13-Nov-2022 14:11:27 UTC] PHP Warning:  Undefined variable $koneksi in /home/kamunaen/public_html/auth/proses_login.php on line 14
+[13-Nov-2022 14:11:27 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/kamunaen/public_html/auth/proses_login.php:14
+Stack trace:
+#0 /home/kamunaen/public_html/auth/proses_login.php(14): mysqli_query(NULL, 'select * from u...')
+#1 {main}
+  thrown in /home/kamunaen/public_html/auth/proses_login.php on line 14
+[13-Nov-2022 14:12:28 UTC] PHP Warning:  Undefined variable $koneksi in /home/kamunaen/public_html/auth/proses_login.php on line 14
+[13-Nov-2022 14:12:28 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/kamunaen/public_html/auth/proses_login.php:14
+Stack trace:
+#0 /home/kamunaen/public_html/auth/proses_login.php(14): mysqli_query(NULL, 'select * from u...')
+#1 {main}
+  thrown in /home/kamunaen/public_html/auth/proses_login.php on line 14
+[13-Nov-2022 14:12:37 UTC] PHP Warning:  Undefined variable $koneksi in /home/kamunaen/public_html/auth/proses_login.php on line 14
+[13-Nov-2022 14:12:37 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/kamunaen/public_html/auth/proses_login.php:14
+Stack trace:
+#0 /home/kamunaen/public_html/auth/proses_login.php(14): mysqli_query(NULL, 'select * from u...')
+#1 {main}
+  thrown in /home/kamunaen/public_html/auth/proses_login.php on line 14
+[13-Nov-2022 14:31:14 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/kamunaen/public_html/auth/dokter.php on line 8
+[13-Nov-2022 14:31:14 UTC] PHP Warning:  Undefined variable $_SESSION in /home/kamunaen/public_html/auth/dokter.php on line 11
+[13-Nov-2022 14:31:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kamunaen/public_html/auth/dokter.php on line 11
+[13-Nov-2022 14:31:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kamunaen/public_html/auth/dokter.php:1) in /home/kamunaen/public_html/auth/dokter.php on line 12
+[13-Nov-2022 14:31:14 UTC] PHP Warning:  Undefined variable $_SESSION in /home/kamunaen/public_html/auth/dokter.php on line 18
+[13-Nov-2022 14:31:14 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kamunaen/public_html/auth/dokter.php on line 18
+[13-Nov-2022 16:10:36 UTC] PHP Warning:  Undefined array key "user_level_id" in /home/kamunaen/public_html/auth/home.php on line 5
+[13-Nov-2022 16:10:36 UTC] PHP Warning:  Undefined array key "username" in /home/kamunaen/public_html/auth/home.php on line 6
+[13-Nov-2022 16:17:23 UTC] PHP Fatal error:  Uncaught Error: mysqli object is already closed in /home/kamunaen/public_html/auth/proses_login.php:14
+Stack trace:
+#0 /home/kamunaen/public_html/auth/proses_login.php(14): mysqli_query(Object(mysqli), 'select * from u...')
+#1 {main}
+  thrown in /home/kamunaen/public_html/auth/proses_login.php on line 14
+[13-Nov-2022 16:17:39 UTC] PHP Warning:  Undefined array key "username" in /home/kamunaen/public_html/auth/proses_login.php on line 9
+[13-Nov-2022 16:17:39 UTC] PHP Warning:  Undefined array key "password" in /home/kamunaen/public_html/auth/proses_login.php on line 10
+[13-Nov-2022 16:45:41 UTC] PHP Warning:  Undefined array key "user_level_id" in /home/kamunaen/public_html/auth/home.php on line 5
+[13-Nov-2022 16:45:41 UTC] PHP Warning:  Undefined array key "username" in /home/kamunaen/public_html/auth/home.php on line 6
+[13-Nov-2022 18:38:57 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/kamunaen/public_html/auth/proses_login.php:16
+Stack trace:
+#0 /home/kamunaen/public_html/auth/proses_login.php(16): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home/kamunaen/public_html/auth/proses_login.php on line 16
+[13-Nov-2022 18:39:57 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/kamunaen/public_html/auth/proses_login.php:16
+Stack trace:
+#0 /home/kamunaen/public_html/auth/proses_login.php(16): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home/kamunaen/public_html/auth/proses_login.php on line 16
+[13-Nov-2022 18:40:00 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/kamunaen/public_html/auth/proses_login.php:16
+Stack trace:
+#0 /home/kamunaen/public_html/auth/proses_login.php(16): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home/kamunaen/public_html/auth/proses_login.php on line 16
+[13-Nov-2022 18:43:11 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/kamunaen/public_html/auth/proses_login.php:16
+Stack trace:
+#0 /home/kamunaen/public_html/auth/proses_login.php(16): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home/kamunaen/public_html/auth/proses_login.php on line 16
+[13-Nov-2022 18:45:55 UTC] PHP Warning:  Undefined array key "user_level_id" in /home/kamunaen/public_html/auth/home.php on line 5
+[13-Nov-2022 18:50:29 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/kamunaen/public_html/auth/proses_login.php:16
+Stack trace:
+#0 /home/kamunaen/public_html/auth/proses_login.php(16): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home/kamunaen/public_html/auth/proses_login.php on line 16
+[13-Nov-2022 18:51:20 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/kamunaen/public_html/auth/proses_login.php:16
+Stack trace:
+#0 /home/kamunaen/public_html/auth/proses_login.php(16): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home/kamunaen/public_html/auth/proses_login.php on line 16
+[13-Nov-2022 18:52:25 UTC] PHP Warning:  Undefined array key "role" in /home/kamunaen/public_html/auth/proses_login.php on line 11
+[13-Nov-2022 18:52:25 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/kamunaen/public_html/auth/proses_login.php:17
+Stack trace:
+#0 /home/kamunaen/public_html/auth/proses_login.php(17): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home/kamunaen/public_html/auth/proses_login.php on line 17
+[13-Nov-2022 18:55:23 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home/kamunaen/public_html/auth/proses_login.php:16
+Stack trace:
+#0 /home/kamunaen/public_html/auth/proses_login.php(16): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home/kamunaen/public_html/auth/proses_login.php on line 16
+[14-Nov-2022 09:12:51 UTC] PHP Warning:  Undefined array key "username" in /home/kamunaen/public_html/auth/proses_login.php on line 9
+[14-Nov-2022 09:12:51 UTC] PHP Warning:  Undefined array key "password" in /home/kamunaen/public_html/auth/proses_login.php on line 10
+[14-Nov-2022 11:09:19 UTC] PHP Warning:  Undefined array key "user_level_id" in /home/kamunaen/public_html/auth/home.php on line 5
+[14-Nov-2022 11:09:19 UTC] PHP Warning:  Undefined array key "username" in /home/kamunaen/public_html/auth/home.php on line 6
+[14-Nov-2022 12:30:18 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/kamunaen/public_html/auth/admin.php on line 8
+[14-Nov-2022 12:30:18 UTC] PHP Warning:  Undefined variable $_SESSION in /home/kamunaen/public_html/auth/admin.php on line 11
+[14-Nov-2022 12:30:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kamunaen/public_html/auth/admin.php on line 11
+[14-Nov-2022 12:30:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kamunaen/public_html/auth/admin.php:1) in /home/kamunaen/public_html/auth/admin.php on line 12
+[14-Nov-2022 12:30:18 UTC] PHP Warning:  Undefined variable $_SESSION in /home/kamunaen/public_html/auth/admin.php on line 18
+[14-Nov-2022 12:30:18 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kamunaen/public_html/auth/admin.php on line 18
+[14-Nov-2022 12:30:55 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/kamunaen/public_html/auth/dokter.php on line 8
+[14-Nov-2022 12:30:55 UTC] PHP Warning:  Undefined variable $_SESSION in /home/kamunaen/public_html/auth/dokter.php on line 11
+[14-Nov-2022 12:30:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kamunaen/public_html/auth/dokter.php on line 11
+[14-Nov-2022 12:30:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kamunaen/public_html/auth/dokter.php:1) in /home/kamunaen/public_html/auth/dokter.php on line 12
+[14-Nov-2022 12:30:55 UTC] PHP Warning:  Undefined variable $_SESSION in /home/kamunaen/public_html/auth/dokter.php on line 18
+[14-Nov-2022 12:30:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kamunaen/public_html/auth/dokter.php on line 18
+[14-Nov-2022 12:32:26 UTC] PHP Warning:  Undefined array key "username" in /home/kamunaen/public_html/auth/proses_login.php on line 9
+[14-Nov-2022 12:32:26 UTC] PHP Warning:  Undefined array key "password" in /home/kamunaen/public_html/auth/proses_login.php on line 10
+[14-Nov-2022 12:32:31 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/kamunaen/public_html/auth/farmasi.php on line 8
+[14-Nov-2022 12:32:31 UTC] PHP Warning:  Undefined variable $_SESSION in /home/kamunaen/public_html/auth/farmasi.php on line 11
+[14-Nov-2022 12:32:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kamunaen/public_html/auth/farmasi.php on line 11
+[14-Nov-2022 12:32:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kamunaen/public_html/auth/farmasi.php:1) in /home/kamunaen/public_html/auth/farmasi.php on line 12
+[14-Nov-2022 12:32:31 UTC] PHP Warning:  Undefined variable $_SESSION in /home/kamunaen/public_html/auth/farmasi.php on line 18
+[14-Nov-2022 12:32:31 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kamunaen/public_html/auth/farmasi.php on line 18
+[15-Nov-2022 00:55:03 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home/kamunaen/public_html/auth/admin.php on line 8
+[15-Nov-2022 00:55:03 UTC] PHP Warning:  Undefined variable $_SESSION in /home/kamunaen/public_html/auth/admin.php on line 11
+[15-Nov-2022 00:55:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kamunaen/public_html/auth/admin.php on line 11
+[15-Nov-2022 00:55:03 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/kamunaen/public_html/auth/admin.php:1) in /home/kamunaen/public_html/auth/admin.php on line 12
+[15-Nov-2022 00:55:03 UTC] PHP Warning:  Undefined variable $_SESSION in /home/kamunaen/public_html/auth/admin.php on line 18
+[15-Nov-2022 00:55:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home/kamunaen/public_html/auth/admin.php on line 18
+[15-Nov-2022 04:21:31 UTC] PHP Warning:  Undefined array key "user_level_id" in /home/kamunaen/public_html/auth/home.php on line 5
+[15-Nov-2022 04:21:31 UTC] PHP Warning:  Undefined array key "username" in /home/kamunaen/public_html/auth/home.php on line 6
+[15-Nov-2022 04:21:33 UTC] PHP Warning:  Undefined array key "user_level_id" in /home/kamunaen/public_html/auth/home.php on line 5
+[15-Nov-2022 04:21:33 UTC] PHP Warning:  Undefined array key "username" in /home/kamunaen/public_html/auth/home.php on line 6
+[15-Nov-2022 04:21:48 UTC] PHP Warning:  Undefined array key "username" in /home/kamunaen/public_html/auth/proses_login.php on line 9
+[15-Nov-2022 04:21:48 UTC] PHP Warning:  Undefined array key "password" in /home/kamunaen/public_html/auth/proses_login.php on line 10
+[15-Nov-2022 04:22:00 UTC] PHP Warning:  Undefined array key "user_level_id" in /home/kamunaen/public_html/auth/home.php on line 5
+[15-Nov-2022 04:22:00 UTC] PHP Warning:  Undefined array key "username" in /home/kamunaen/public_html/auth/home.php on line 6
+[15-Nov-2022 04:30:16 UTC] PHP Warning:  include(../../koneksi.php): Failed to open stream: No such file or directory in /home/kamunaen/public_html/auth/daftar.php on line 3
+[15-Nov-2022 04:30:16 UTC] PHP Warning:  include(): Failed opening '../../koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/kamunaen/public_html/auth/daftar.php on line 3
+[15-Nov-2022 04:30:39 UTC] PHP Warning:  include(../../koneksi.php): Failed to open stream: No such file or directory in /home/kamunaen/public_html/auth/daftar.php on line 3
+[15-Nov-2022 04:30:39 UTC] PHP Warning:  include(): Failed opening '../../koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/kamunaen/public_html/auth/daftar.php on line 3
+[15-Nov-2022 04:30:39 UTC] PHP Warning:  Undefined variable $conn in /home/kamunaen/public_html/auth/daftar.php on line 14
+[15-Nov-2022 04:30:39 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/kamunaen/public_html/auth/daftar.php:14
+Stack trace:
+#0 /home/kamunaen/public_html/auth/daftar.php(14): mysqli_query(NULL, 'SELECT * FROM u...')
+#1 {main}
+  thrown in /home/kamunaen/public_html/auth/daftar.php on line 14
+[15-Nov-2022 05:53:22 UTC] PHP Warning:  include(../../koneksi.php): Failed to open stream: No such file or directory in /home/kamunaen/public_html/auth/daftar.php on line 3
+[15-Nov-2022 05:53:22 UTC] PHP Warning:  include(): Failed opening '../../koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/kamunaen/public_html/auth/daftar.php on line 3
+[15-Nov-2022 05:53:28 UTC] PHP Warning:  include(../../koneksi.php): Failed to open stream: No such file or directory in /home/kamunaen/public_html/auth/daftar.php on line 3
+[15-Nov-2022 05:53:28 UTC] PHP Warning:  include(): Failed opening '../../koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/kamunaen/public_html/auth/daftar.php on line 3
+[15-Nov-2022 05:53:28 UTC] PHP Warning:  Undefined variable $conn in /home/kamunaen/public_html/auth/daftar.php on line 14
+[15-Nov-2022 05:53:28 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home/kamunaen/public_html/auth/daftar.php:14
+Stack trace:
+#0 /home/kamunaen/public_html/auth/daftar.php(14): mysqli_query(NULL, 'SELECT * FROM u...')
+#1 {main}
+  thrown in /home/kamunaen/public_html/auth/daftar.php on line 14
+[15-Nov-2022 07:15:28 UTC] PHP Warning:  include(../../koneksi.php): Failed to open stream: No such file or directory in /home/kamunaen/public_html/auth/daftar.php on line 3
+[15-Nov-2022 07:15:28 UTC] PHP Warning:  include(): Failed opening '../../koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/kamunaen/public_html/auth/daftar.php on line 3
